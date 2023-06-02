@@ -35,6 +35,8 @@ Você pode personalizar a rede neural e experimentar diferentes configurações.
 
 Se você quiser contribuir para este projeto, sinta-se à vontade para fazer um fork do repositório e enviar um pull request com suas melhorias.
 
+O desenvolvimento do projeto foi baseado no video do Youtube do canal  https://www.youtube.com/@josebezerra3227.
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
